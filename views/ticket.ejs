@@ -1,0 +1,22 @@
+<%- include ('partials/header'); -%>
+<!DOCTYPE html>
+<html lang="en">
+<body>
+	<div class="container" >
+		<h1>Banco Turnos</h1>
+		<p>Por favor, seleccione su tipo de usuario:</p>
+        <br><br>
+		<div class="buttons container" id="form" action="/ticket" method="post">
+			
+			<button  id="userBtn" type="submit" name="usuario" onclick="funTicket('usuario')">Usuario</button>
+			<br><br>
+            <button id="spontaneousBtn"  type="submit" name="espontaneo" onclick="funTicket('espontaneo')"  >Espontáneo</button>
+		</div>
+        <br>
+		<div class="container">
+			<h1>Lista de datos:</h1>
+			<ul id="data-list"></ul>		
+		</div>
+	</div>
+</body>
+</html>
