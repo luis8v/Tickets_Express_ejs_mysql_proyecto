@@ -4,9 +4,10 @@ Este es un sistema web sencillo desarrollado con la finalidad de simular un sist
 Contiene un servidor express que maneja 3 rutas y mantiene una conexión con una base de datos MySQL
 Utiliza un motor de plantillas EJS y contiene su propio archivo de estilos css
 
-https://1drv.ms/i/s!AnHH1ICkrlcKgut52WK4kF4aGN5RxQ?e=bUQhAs
+Herramientas![Captura web_9-6-2023_194250_localhost](https://github.com/luis8v/Tickets_Express_ejs_mysql_proyecto/assets/108349641/647f94a6-32b6-429b-b150-09adfae87fd8)
+![Captura web_9-6-2023_19436_localhost](https://github.com/luis8v/Tickets_Express_ejs_mysql_proyecto/assets/108349641/dab0d9c6-012c-43de-ab6e-e6ed8959875f)
+![Captura web_9-6-2023_194320_localhost](https://github.com/luis8v/Tickets_Express_ejs_mysql_proyecto/assets/108349641/d1f4a51e-837a-47e1-af85-4d0d20beb2a4)
 
-Herramientas
 
 * express
 * ejs
